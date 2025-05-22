@@ -1,0 +1,102 @@
+Age,Gender,Socioeconomic Status,Attention Span (minutes),Social Interaction Frequency,Sensory Sensitivities,Learning Preferences,Problem-solving Skills (Score),Memory Retention (Score),Academic Performance (GPA),Types of Support Received,Special Education Status,Job Type,Workplace Accommodations,Employment History (Years),Diagnoses,Age at Diagnosis,Type of Diagnosis,Standardized Test Scores,Questionnaire Results,participant_id,verbal_IQ,performance_IQ,full_scale_IQ,working_memory_index,processing_speed_index,reading_score,phonological_processing_score,attention_score,hyperactivity_score,social_communication_score,has_ASD,has_ADHD,has_Dyslexia,mother_has_thyroid_autoimmunity
+56,Male,Low,46,Low,None,Kinesthetic,42,91,2.22,Tutoring,Yes,Unemployed,Extensive,13,Autism Spectrum,31.0,Professional diagnosis,14,Medium,P001,97,114,106,134,92,88,74,129,52,65,1,0,0,1
+46,Other,High,25,Medium,Severe,Visual,84,94,2.78,None,No,Full-time,Extensive,20,None,,N/A,66,High,P002,121,147,134,136,101,120,96,97,89,80,0,0,0,0
+32,Male,Middle,20,Medium,None,Auditory,45,58,2.48,Special Education,No,Part-time,Extensive,25,Autism Spectrum,29.0,Self-diagnosed,96,Medium,P003,128,116,122,111,106,137,110,90,76,65,1,0,0,1
+60,Other,Middle,16,High,Mild,Kinesthetic,82,27,2.03,None,No,Full-time,Extensive,2,ADHD,29.0,Professional diagnosis,95,High,P004,129,145,137,89,112,137,110,84,86,100,0,1,0,0
+25,Non-binary,High,6,Medium,None,Auditory,17,26,2.72,Tutoring,Yes,Full-time,Some,39,Autism Spectrum,9.0,Professional diagnosis,75,High,P005,122,94,108,88,123,125,100,69,97,65,1,0,0,1
+38,Male,High,45,Medium,Mild,Visual,73,7,2.18,Tutoring,No,Part-time,Extensive,3,Autism Spectrum,10.0,Self-diagnosed,86,Medium,P006,125,138,132,75,92,132,106,128,51,65,1,0,0,0
+56,Female,Low,28,High,None,Auditory,14,42,2.51,Tutoring,No,Unemployed,None,35,Autism Spectrum,9.0,Professional diagnosis,67,High,P007,118,91,105,99,97,120,96,102,67,100,1,0,0,1
+36,Female,Low,39,High,Moderate,Visual,49,47,2.19,Special Education,Yes,Full-time,Some,0,Dyslexia,23.0,Self-diagnosed,31,Low,P008,82,119,101,103,98,76,61,119,48,100,0,0,1,0
+40,Other,High,34,Low,Severe,Visual,29,53,2.2,None,No,Unemployed,Some,39,None,,N/A,33,High,P009,103,103,103,107,98,100,80,111,60,60,0,0,0,0
+28,Female,Middle,34,High,Severe,Auditory,95,59,2.4,None,Yes,Unemployed,Some,32,ADHD,12.0,Professional diagnosis,88,Low,P010,112,156,134,111,98,133,106,111,65,100,0,1,0,0
+28,Male,Low,51,Low,Moderate,Auditory,4,38,4.0,None,No,Part-time,Extensive,6,None,,N/A,1,Medium,P011,86,83,85,97,85,81,65,137,45,60,0,0,0,0
+41,Female,Low,39,High,Moderate,Visual,82,69,2.0,Special Education,Yes,Full-time,None,10,None,,N/A,44,Medium,P012,98,146,122,118,98,106,85,119,48,100,0,0,0,0
+53,Non-binary,Middle,23,High,Severe,Kinesthetic,20,87,3.28,Special Education,Yes,Full-time,Extensive,26,ADHD,8.0,Professional diagnosis,15,Low,P013,94,96,95,131,106,89,71,94,76,100,0,1,0,0
+57,Non-binary,Low,54,Low,Moderate,Visual,47,92,2.28,Tutoring,Yes,Unemployed,Some,13,Dyslexia,29.0,Professional diagnosis,37,High,P014,104,118,111,134,82,82,66,141,47,60,0,0,1,0
+41,Other,Middle,12,High,Mild,Auditory,9,98,3.84,Tutoring,No,Unemployed,Some,21,Autism Spectrum,13.0,Self-diagnosed,27,Low,P015,126,87,107,139,115,97,78,78,91,100,1,0,0,1
+20,Male,Middle,30,Low,None,Auditory,77,53,2.19,None,No,Part-time,Some,15,Dyslexia,11.0,Professional diagnosis,48,Low,P016,98,142,120,107,98,88,70,105,63,60,0,0,1,0
+39,Non-binary,Middle,53,High,Severe,Kinesthetic,79,15,3.91,Special Education,Yes,Unemployed,Some,11,Dyslexia,12.0,Self-diagnosed,27,Medium,P017,123,143,133,80,82,76,61,139,48,100,0,0,1,0
+19,Non-binary,High,44,Medium,Moderate,Visual,27,96,3.22,Special Education,Yes,Part-time,Extensive,9,Autism Spectrum,19.0,Professional diagnosis,12,Low,P018,94,101,98,137,92,71,57,126,48,65,1,0,0,0
+41,Male,High,11,High,Mild,Visual,15,26,2.0,None,No,Full-time,None,23,None,,N/A,67,High,P019,113,92,103,88,115,120,96,76,86,100,0,0,0,0
+61,Female,High,34,Low,Severe,Visual,92,48,3.79,None,No,Part-time,None,17,Autism Spectrum,19.0,Professional diagnosis,30,Low,P020,119,154,137,104,98,100,80,111,60,60,1,0,0,1
+47,Female,Middle,11,High,Moderate,Auditory,19,95,3.04,Tutoring,Yes,Unemployed,Some,21,ADHD,9.0,Professional diagnosis,96,Medium,P021,143,95,119,137,115,137,110,76,91,100,0,1,0,0
+55,Other,Middle,7,Low,Severe,Visual,90,19,2.53,Tutoring,No,Full-time,None,8,Autism Spectrum,23.0,Professional diagnosis,87,High,P022,137,152,145,83,123,132,106,70,96,60,1,0,0,0
+19,Female,High,5,Low,Moderate,Kinesthetic,52,9,3.53,Tutoring,No,Part-time,Some,16,None,,N/A,66,Medium,P023,128,122,125,76,125,120,96,67,100,60,0,0,0,0
+38,Male,Low,40,Medium,Severe,Auditory,26,64,3.85,None,No,Full-time,Some,37,Dyslexia,10.0,Professional diagnosis,7,Low,P024,96,101,99,115,95,62,50,120,50,80,0,0,1,0
+50,Non-binary,Middle,29,Medium,Mild,Auditory,89,93,2.97,None,Yes,Part-time,None,39,Dyslexia,31.0,Self-diagnosed,34,Low,P025,98,151,125,135,98,86,69,104,65,80,0,0,1,0
+29,Female,Low,41,Low,Mild,Visual,26,54,2.63,Tutoring,Yes,Unemployed,Some,12,Autism Spectrum,23.0,Professional diagnosis,32,Medium,P026,92,101,97,108,94,100,80,121,48,60,1,0,0,1
+39,Other,Low,5,High,None,Kinesthetic,26,51,3.58,Tutoring,No,Unemployed,None,36,ADHD,29.0,Professional diagnosis,39,Medium,P027,117,101,109,106,125,103,82,67,100,100,0,1,0,0
+61,Female,Middle,19,Low,Severe,Auditory,46,39,3.36,Special Education,Yes,Full-time,Some,5,None,,N/A,96,High,P028,145,117,131,97,110,137,110,89,76,60,0,0,0,0
+42,Male,Middle,41,Low,None,Auditory,92,4,3.78,Special Education,No,Full-time,None,20,Dyslexia,21.0,Self-diagnosed,43,Medium,P029,119,154,137,73,95,82,66,121,48,60,0,0,1,0
+44,Other,Low,17,High,Severe,Visual,49,3,3.39,Tutoring,No,Full-time,Some,35,Autism Spectrum,14.0,Professional diagnosis,43,Medium,P030,118,119,119,72,112,103,82,85,86,100,1,0,0,1
+59,Female,Low,44,High,Moderate,Visual,82,64,2.49,Tutoring,Yes,Part-time,None,6,ADHD,23.0,Self-diagnosed,78,Low,P031,117,146,132,115,92,126,101,126,53,100,0,1,0,0
+45,Other,High,12,High,Moderate,Kinesthetic,96,29,3.86,Special Education,Yes,Unemployed,Some,35,ADHD,15.0,Professional diagnosis,3,Low,P032,88,157,123,90,115,62,50,78,86,100,0,1,0,0
+33,Male,High,9,High,None,Visual,53,11,2.21,Tutoring,Yes,Full-time,Some,24,Dyslexia,19.0,Self-diagnosed,46,Medium,P033,100,122,111,78,119,88,70,73,93,100,0,0,1,0
+32,Non-binary,Middle,13,Low,Severe,Kinesthetic,3,97,2.54,Special Education,No,Full-time,Some,10,Dyslexia,14.0,Professional diagnosis,32,Medium,P034,91,83,87,138,114,76,61,79,90,80,0,0,1,0
+64,Male,High,5,Low,None,Auditory,66,58,3.04,Special Education,No,Full-time,None,13,None,,N/A,43,Low,P035,102,133,118,111,125,103,82,67,100,60,0,0,0,0
+61,Male,High,40,Medium,Mild,Kinesthetic,97,75,3.13,Special Education,Yes,Part-time,Extensive,28,ADHD,27.0,Self-diagnosed,100,High,P036,155,158,156,122,95,150,120,120,55,80,0,1,0,0
+20,Male,High,39,Low,None,Kinesthetic,42,27,2.03,None,Yes,Full-time,Some,9,None,,N/A,81,High,P037,121,113,117,89,97,129,103,119,48,60,0,0,0,0
+54,Male,High,6,High,None,Kinesthetic,19,97,3.56,None,Yes,Full-time,Some,4,ADHD,34.0,Self-diagnosed,3,High,P038,97,95,96,138,124,62,50,69,97,100,0,1,0,0
+24,Non-binary,Low,44,Medium,Moderate,Auditory,17,21,2.72,Tutoring,No,Part-time,None,7,ADHD,7.0,Professional diagnosis,74,High,P039,129,93,111,85,92,124,99,126,53,80,0,1,0,0
+38,Non-binary,Middle,27,High,None,Visual,33,39,2.81,Special Education,No,Part-time,Some,4,Autism Spectrum,22.0,Professional diagnosis,63,Low,P040,114,106,110,97,100,117,94,100,70,100,1,0,0,1
+26,Other,High,13,Low,Severe,Auditory,76,95,3.62,None,No,Full-time,Some,23,Dyslexia,29.0,Self-diagnosed,40,Medium,P041,114,141,127,137,114,84,67,80,90,60,0,0,1,0
+56,Female,Low,38,Medium,Moderate,Visual,49,46,2.76,Tutoring,Yes,Full-time,Some,39,ADHD,15.0,Professional diagnosis,18,High,P042,105,119,112,102,97,88,70,117,53,80,0,1,0,0
+35,Non-binary,Low,50,High,None,Kinesthetic,56,66,2.09,Tutoring,Yes,Part-time,Some,25,None,,N/A,67,Low,P043,114,125,120,116,85,120,96,135,50,100,0,0,0,0
+21,Non-binary,Low,18,Medium,Mild,Kinesthetic,63,91,2.35,Tutoring,No,Unemployed,Extensive,5,Dyslexia,30.0,Self-diagnosed,62,Medium,P044,111,130,121,134,110,112,90,87,78,80,0,0,1,0
+42,Female,High,8,Medium,None,Kinesthetic,3,36,3.91,Tutoring,Yes,Part-time,Extensive,15,None,,N/A,10,High,P045,115,83,99,95,122,74,59,72,96,80,0,0,0,0
+31,Non-binary,High,34,Low,None,Kinesthetic,49,75,2.14,Tutoring,Yes,Unemployed,Some,35,Dyslexia,26.0,Professional diagnosis,52,Medium,P046,104,119,112,122,98,101,81,111,60,60,0,0,1,0
+26,Male,Middle,35,High,None,Kinesthetic,55,82,2.71,Special Education,Yes,Full-time,Some,11,Dyslexia,22.0,Professional diagnosis,73,High,P047,130,124,127,127,98,112,90,112,59,100,0,0,1,0
+43,Male,High,42,Medium,Moderate,Visual,26,65,3.01,Tutoring,Yes,Full-time,Some,10,ADHD,29.0,Self-diagnosed,46,Medium,P048,112,101,107,116,94,103,82,123,48,80,0,1,0,0
+19,Female,High,15,Medium,Severe,Visual,99,63,2.99,Special Education,No,Unemployed,Extensive,2,Autism Spectrum,19.0,Self-diagnosed,55,High,P049,115,159,137,114,112,112,90,82,87,65,1,0,0,1
+37,Other,Low,39,High,Mild,Kinesthetic,72,99,2.01,None,Yes,Part-time,Extensive,36,ADHD,11.0,Professional diagnosis,46,High,P050,97,138,118,139,97,103,82,119,48,100,0,1,0,0
+45,Other,Middle,12,Medium,None,Auditory,52,35,3.0,Tutoring,No,Full-time,None,5,Dyslexia,14.0,Self-diagnosed,75,Medium,P051,126,122,124,95,115,115,92,78,91,80,0,0,1,0
+64,Female,High,7,Medium,Severe,Auditory,100,31,2.77,None,No,Unemployed,None,18,ADHD,25.0,Self-diagnosed,60,Medium,P052,121,160,140,91,123,114,91,70,96,80,0,1,0,0
+24,Female,High,18,Medium,Severe,Kinesthetic,7,28,3.94,Special Education,Yes,Part-time,Some,17,ADHD,27.0,Self-diagnosed,97,Medium,P053,147,85,116,89,110,137,110,87,78,80,0,1,0,0
+61,Male,Low,17,High,Moderate,Visual,46,1,2.32,Special Education,No,Unemployed,Some,15,Dyslexia,34.0,Self-diagnosed,100,Low,P054,132,117,125,70,112,130,104,85,86,100,0,0,1,0
+25,Other,Low,49,High,Mild,Auditory,46,25,2.71,None,No,Part-time,Extensive,22,Dyslexia,24.0,Professional diagnosis,26,Low,P055,81,117,99,87,85,76,61,133,50,100,0,0,1,0
+64,Non-binary,High,36,High,Moderate,Auditory,100,43,2.84,Tutoring,Yes,Part-time,Some,36,ADHD,33.0,Professional diagnosis,27,Medium,P056,92,160,126,100,97,97,78,114,55,100,0,1,0,0
+52,Male,Middle,38,High,Severe,Auditory,16,84,2.78,Tutoring,No,Part-time,Some,8,ADHD,14.0,Professional diagnosis,38,Low,P057,92,93,93,129,97,81,65,117,53,100,0,1,0,0
+31,Female,Middle,49,Low,Severe,Kinesthetic,24,67,3.33,None,No,Part-time,Extensive,2,ADHD,17.0,Self-diagnosed,22,High,P058,95,99,97,117,85,91,73,133,50,60,0,1,0,0
+34,Other,Low,23,Medium,Severe,Auditory,61,63,2.43,None,No,Unemployed,Extensive,7,None,,N/A,26,Medium,P059,84,129,107,114,105,95,76,94,76,80,0,0,0,0
+53,Non-binary,Low,42,High,Moderate,Auditory,54,51,2.44,None,No,Unemployed,Extensive,37,ADHD,27.0,Self-diagnosed,86,Low,P060,122,123,123,106,94,111,89,123,48,100,0,1,0,0
+57,Non-binary,High,20,Medium,Mild,Auditory,62,2,3.46,Tutoring,No,Unemployed,Extensive,3,None,,N/A,69,Medium,P061,133,129,131,71,109,121,97,90,76,80,0,0,0,0
+21,Male,Low,6,Medium,None,Auditory,1,82,3.0,Tutoring,No,Unemployed,None,11,Autism Spectrum,27.0,Professional diagnosis,35,High,P062,99,81,90,127,124,100,80,69,97,80,1,0,0,1
+19,Other,High,44,Low,Moderate,Visual,49,64,2.83,Tutoring,No,Unemployed,Extensive,30,None,,N/A,66,High,P063,123,119,121,115,92,120,96,126,53,60,0,0,0,0
+23,Other,Middle,21,High,Severe,Kinesthetic,25,74,2.34,None,No,Part-time,Extensive,24,ADHD,24.0,Self-diagnosed,99,Low,P064,127,100,114,122,108,129,103,91,75,100,0,1,0,0
+59,Female,Middle,59,High,Moderate,Kinesthetic,10,69,2.38,Tutoring,Yes,Full-time,Some,15,Autism Spectrum,21.0,Professional diagnosis,73,High,P065,124,88,106,118,78,122,98,148,41,100,1,0,0,1
+21,Other,High,38,Medium,Severe,Visual,80,9,2.02,Special Education,Yes,Full-time,Some,13,None,,N/A,51,Medium,P066,95,144,120,76,97,112,90,117,53,80,0,0,0,0
+46,Other,Low,46,High,None,Visual,16,2,2.18,None,Yes,Unemployed,Some,12,None,,N/A,18,Low,P067,76,93,85,71,88,81,65,129,52,100,0,0,0,0
+35,Male,Middle,20,Medium,None,Kinesthetic,58,34,3.11,Tutoring,No,Unemployed,None,6,Dyslexia,25.0,Self-diagnosed,43,Medium,P068,105,126,116,94,109,82,66,90,76,80,0,0,1,0
+43,Other,Low,42,Medium,Mild,Auditory,72,60,3.78,None,No,Full-time,Extensive,11,Autism Spectrum,25.0,Self-diagnosed,12,Medium,P069,114,138,126,112,94,77,62,123,48,80,1,0,0,1
+61,Non-binary,Middle,6,Low,Severe,Auditory,29,61,2.57,Special Education,No,Part-time,Extensive,36,Dyslexia,6.0,Self-diagnosed,3,Medium,P070,62,104,83,113,124,41,33,69,97,80,0,0,1,0
+51,Male,High,6,Low,Mild,Kinesthetic,92,31,2.66,Special Education,Yes,Unemployed,None,3,Autism Spectrum,8.0,Self-diagnosed,82,High,P071,131,154,142,91,124,126,101,69,97,60,1,0,0,1
+27,Male,High,30,Low,Mild,Auditory,6,10,2.23,None,Yes,Part-time,Extensive,1,None,,N/A,7,Medium,P072,65,84,75,77,99,63,50,105,63,60,0,0,0,0
+53,Female,High,17,Medium,None,Visual,16,76,2.78,None,Yes,Full-time,Some,34,Dyslexia,19.0,Self-diagnosed,97,High,P073,138,93,116,123,112,117,94,85,86,80,0,0,1,0
+31,Other,Middle,51,High,Moderate,Auditory,20,36,2.07,Special Education,No,Full-time,None,2,ADHD,29.0,Professional diagnosis,6,Medium,P074,65,96,81,95,84,63,50,136,49,100,0,1,0,0
+48,Female,Low,35,Low,Moderate,Auditory,80,85,3.84,None,Yes,Unemployed,Extensive,3,None,,N/A,82,High,P075,144,144,144,130,98,129,103,112,59,60,0,0,0,0
+65,Non-binary,Low,38,High,Mild,Auditory,71,49,3.35,Special Education,Yes,Part-time,None,37,Autism Spectrum,10.0,Professional diagnosis,45,High,P076,120,137,129,104,96,103,82,117,53,100,1,0,0,1
+32,Male,Low,43,Low,None,Kinesthetic,78,70,3.98,Special Education,No,Unemployed,None,11,Autism Spectrum,11.0,Professional diagnosis,86,High,P077,150,142,146,119,93,132,106,124,47,60,1,0,0,1
+25,Male,Middle,7,Low,Severe,Visual,43,49,3.77,Tutoring,Yes,Full-time,Extensive,18,Dyslexia,23.0,Professional diagnosis,39,Medium,P078,114,114,114,104,123,83,66,70,96,60,0,0,1,0
+31,Male,Middle,12,Medium,Moderate,Auditory,26,3,2.95,None,No,Part-time,Some,9,Dyslexia,16.0,Self-diagnosed,51,Medium,P079,111,101,106,72,115,101,81,78,91,80,0,0,1,0
+40,Non-binary,Middle,27,Low,Mild,Kinesthetic,90,74,3.04,None,Yes,Unemployed,Extensive,0,Autism Spectrum,5.0,Self-diagnosed,9,High,P080,91,152,122,122,100,74,59,100,70,60,1,0,0,1
+57,Non-binary,Middle,18,Low,Moderate,Auditory,78,5,2.38,Tutoring,No,Unemployed,Extensive,16,None,,N/A,99,Medium,P081,127,142,135,73,111,129,103,87,78,60,0,0,0,0
+38,Female,Middle,59,Medium,Moderate,Visual,71,90,2.92,Special Education,No,Unemployed,Some,15,Dyslexia,23.0,Self-diagnosed,23,High,P082,93,137,115,133,78,91,73,148,41,80,0,0,1,0
+33,Female,Low,31,High,Severe,Auditory,33,61,3.81,None,No,Full-time,Extensive,8,ADHD,17.0,Self-diagnosed,12,Medium,P083,103,106,105,113,98,77,62,106,63,100,0,1,0,0
+62,Female,Middle,58,Low,None,Visual,26,85,2.1,Tutoring,No,Unemployed,Extensive,8,Autism Spectrum,30.0,Professional diagnosis,88,High,P084,138,101,120,130,79,132,106,147,42,60,1,0,0,1
+35,Other,Middle,33,Medium,Severe,Auditory,45,90,3.73,Tutoring,No,Part-time,Extensive,8,ADHD,16.0,Self-diagnosed,62,High,P085,129,116,123,133,98,117,94,109,60,80,0,1,0,0
+64,Male,Low,43,Low,None,Visual,84,26,2.68,None,Yes,Unemployed,None,11,Autism Spectrum,16.0,Self-diagnosed,73,Low,P086,121,147,134,88,93,122,98,124,47,60,1,0,0,1
+41,Male,Middle,57,Medium,Moderate,Auditory,63,72,3.8,Tutoring,No,Full-time,None,14,ADHD,26.0,Self-diagnosed,77,Medium,P087,139,130,135,120,80,126,101,145,42,80,0,1,0,0
+43,Female,Low,43,High,Mild,Visual,67,5,3.88,Special Education,No,Unemployed,None,1,None,,N/A,40,Medium,P088,115,134,125,73,93,103,82,124,47,100,0,0,0,0
+42,Male,Low,5,High,Severe,Auditory,52,15,3.34,Tutoring,No,Full-time,Extensive,10,Autism Spectrum,32.0,Professional diagnosis,54,Low,P089,123,122,123,80,125,111,89,67,100,100,1,0,0,1
+62,Female,High,21,Medium,None,Auditory,68,16,3.33,Special Education,No,Full-time,Some,10,None,,N/A,81,High,P090,141,135,138,81,108,129,103,91,75,80,0,0,0,0
+58,Other,High,45,Medium,Moderate,Kinesthetic,26,1,2.91,Special Education,Yes,Part-time,None,7,Dyslexia,26.0,Self-diagnosed,7,High,P091,74,101,87,70,92,63,50,127,53,80,0,0,1,0
+46,Other,High,34,Medium,None,Kinesthetic,75,16,3.67,None,No,Part-time,Some,31,Autism Spectrum,34.0,Self-diagnosed,17,Low,P092,103,140,122,81,98,81,65,111,60,80,1,0,0,1
+32,Non-binary,High,57,High,None,Visual,2,37,3.92,Tutoring,Yes,Unemployed,Extensive,5,None,,N/A,50,Low,P093,118,81,100,96,80,100,80,145,42,100,0,0,0,0
+62,Other,Middle,17,Low,None,Auditory,14,3,3.55,Special Education,No,Full-time,None,19,ADHD,24.0,Professional diagnosis,24,High,P094,109,91,100,72,112,91,73,85,86,60,0,1,0,0
+18,Female,High,25,High,Moderate,Visual,30,52,3.24,Special Education,No,Full-time,Extensive,38,None,,N/A,2,Medium,P095,71,104,87,106,103,61,49,97,71,100,0,0,0,0
+42,Other,Low,23,Medium,Mild,Kinesthetic,49,47,3.21,Tutoring,Yes,Part-time,Some,34,Autism Spectrum,31.0,Self-diagnosed,99,Low,P096,148,119,134,103,106,129,103,94,76,80,1,0,0,1
+24,Non-binary,Middle,57,Medium,Mild,Visual,12,95,3.7,Special Education,Yes,Part-time,None,7,None,,N/A,92,Low,P097,138,89,114,136,79,135,108,145,42,80,0,0,0,0
+26,Male,High,23,High,Mild,Visual,90,13,3.08,Tutoring,Yes,Unemployed,None,33,ADHD,31.0,Self-diagnosed,83,Low,P098,133,152,142,78,106,113,90,94,76,100,0,1,0,0
+41,Female,Low,29,Medium,None,Kinesthetic,44,80,3.61,None,No,Full-time,None,18,ADHD,14.0,Professional diagnosis,33,Low,P099,100,115,107,126,99,96,77,104,65,80,0,1,0,0
+18,Male,Middle,26,High,Moderate,Auditory,33,55,3.02,Special Education,Yes,Part-time,None,6,ADHD,24.0,Self-diagnosed,21,Low,P100,83,106,95,108,102,74,59,99,71,100,0,1,0,0 
+
